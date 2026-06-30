@@ -1,0 +1,2 @@
+# d2add2bf85eff842-devops-infra-performance-metri
+What if have the information you need right in your browser took minutes instead of hours?  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Devops Infra Performance Metrics — fully configured and ready to use - One-click ac
